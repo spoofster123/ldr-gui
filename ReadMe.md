@@ -10,5 +10,5 @@
 2) run ```python3 test.py```
 
 
-pip/python my work dependant on your local setup.
+pip/python may work dependant on your local setup.
 
